@@ -117,8 +117,8 @@ p{
     max-width: 300px;
     height: 470px;
     margin: 40px auto 0;
-    margin-left: 50px;
-    margin-top: 8px;
+    margin-left: 800px;
+    margin-top: -465px;
 }
 
 
@@ -411,7 +411,7 @@ p{
     }
 
     .container{
-        margin-left: -10px;
+        margin-left: 10px;
     }
     
     .header__z h2 {
@@ -464,6 +464,3 @@ p{
     color: #333;
     overflow-x: hidden;
 }
-
-
-
