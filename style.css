@@ -266,86 +266,8 @@ p{
     margin-left: 800px;
     margin-top: -480px;
 }
-/*table*/
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px auto;
-            max-width: 1000px;
-            color: #333;
-            padding: 0 15px;
-        }
-        h1 {
-            color: #000000;
-            text-align: center;
-            margin-bottom: 20px;
-        }
-        .table-container {
-            overflow-x: auto;
-            -webkit-overflow-scrolling: touch;
-            margin: 20px 0;
-            position: relative;
-            border: 1px solid #ddd;
-            border-radius: 5px;
-            background: white;
-        }
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-            min-width: 600px;
-        }
-        th, td {
-            border: 1px solid #ddd;
-            padding: 12px;
-            text-align: left;
-        }
-        th {
-            background-color: #555;
-            color: white;
-            font-weight: bold;
-            position: sticky;
-            top: 0;
-        }
-        /* Фиксированный первый столбец */
-        th:first-child,
-        td:first-child {
-            position: sticky;
-            left: 0;
-            z-index: 10;
-        }
-        /* Чередование цветов ТОЛЬКО для первого столбца */
-        tr td:first-child {
-            background-color: white; /* Белый по умолчанию */
-        }
-        tr:nth-child(even) td:first-child {
-            background-color: #f5f5f5; /* Очень светло-серый */
-        }
-        /* Стандартное чередование для остальных ячеек */
-        tr:nth-child(even) {
-            background-color: #f8f9fa;
-        }
-        tr:hover {
-            background-color: #e9f7fe;
-        }
-        /* Стиль для заголовка первого столбца */
-        th:first-child {
-            background-color: #555;
-            color: white;
-        }
-        .best {
-            background-color: #d4edda;
-            font-weight: bold;
-        }
-        .rating {
-            color: #e67e22;
-            font-weight: bold;
-        }
-        .note {
-            text-align: center;
-            margin-top: 20px;
-            font-style: italic;
-            color: #666;
-        }
+
+
 
 
 
