@@ -121,7 +121,6 @@ p{
     margin-top: 8px;
 }
 
-
 /*Urent*/
 
 .urent {
@@ -313,19 +312,9 @@ p{
 
 
     .about__img__WH {
-       .about__img__WH {
-    display: flex;
-    justify-content: center; /* Выравнивание по центру по горизонтали */
-    align-items: center;     /* Выравнивание по центру по вертикали */
-    margin: 20px 0;          /* Отступы сверху и снизу */
-}
-
-.logo__WH {
-    max-width: 100%;         /* Чтобы изображение не выходило за границы контейнера */
-    height: auto;            /* Сохранение пропорций */
-    border-radius: 8px;      /* Опционально: скругление углов */
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Опционально: тень */
-}
+        order: -1;
+        margin-bottom: 30px;
+        text-align:center;
     }
     .about__img__UR{
         order: -1;
@@ -339,7 +328,7 @@ p{
 
 
     .logo__WH,.logo__UR,.logo__Go {
-        max-width: 600px;
+        max-width: 300px;
         margin: auto;
     }
 }
