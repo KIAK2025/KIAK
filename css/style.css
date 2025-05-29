@@ -17,7 +17,7 @@ body {
 
 p{
     font-size: 20px;
-    font-weight: 400;
+    font-weight: 400px;
 }
 .container {
     max-width: 1350px;
@@ -50,6 +50,7 @@ p{
     height: auto;
     margin: -280px auto 0;
     margin-left: 800px;
+    
 }
 
 /* Whoosh */
@@ -297,7 +298,7 @@ p{
         text-align: center;
     }
 
-    .Logo_png {
+    .Logo_jpg {
         margin-top: 40px;
         margin: auto;
     }
