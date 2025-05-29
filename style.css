@@ -17,7 +17,7 @@ body {
 
 p{
     font-size: 20px;
-    font-weight: 400px;
+    font-weight: 400;
 }
 .container {
     max-width: 1350px;
@@ -43,14 +43,13 @@ p{
     max-width: 650px;
 }
 
-.Logo_jpg {
+.Logo__JPG {
     display: block;
     width: 100%;
     max-width: 350px;
     height: auto;
     margin: -280px auto 0;
     margin-left: 800px;
-    
 }
 
 /* Whoosh */
@@ -298,7 +297,7 @@ p{
         text-align: center;
     }
 
-    .Logo_jpg {
+    .Logo_png {
         margin-top: 40px;
         margin: auto;
     }
