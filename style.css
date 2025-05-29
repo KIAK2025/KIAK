@@ -43,13 +43,14 @@ p{
     max-width: 650px;
 }
 
-.Logo__JPG {
+.Logo_jpg {
     display: block;
     width: 100%;
     max-width: 350px;
     height: auto;
     margin: -280px auto 0;
     margin-left: 800px;
+    
 }
 
 /* Whoosh */
@@ -297,7 +298,7 @@ p{
         text-align: center;
     }
 
-    .Logo_png {
+    .Logo_jpg {
         margin-top: 40px;
         margin: auto;
     }
