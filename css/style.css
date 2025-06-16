@@ -274,11 +274,12 @@ p{
 .logo__GEO {
     display: block;
     width: 100%;
-    max-width: 800px;
-    height: 800px;
+    max-width: 1000px;
+    height: 1000px;
     margin: 40px auto 0;
     margin-right:700 px;
     margin-top: 600;
+    margin-left: 400px;
     }
 
 
@@ -349,7 +350,7 @@ p{
     }
 }
 .logo__GEO {
-max-width: 400px;
+max-width: 750px;
 margin: auto;
     }
 
