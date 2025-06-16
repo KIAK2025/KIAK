@@ -338,13 +338,20 @@ p{
         order: -1;
         margin-top: 30px;
     }
-
+ .about__img__geo{
+        order: -1;
+        margin-top: 30px;
+    }
 
     .logo__WH,.logo__UR,.logo__Go {
         max-width: 300px;
         margin: auto;
     }
 }
+.logo__GEO {
+max-width: 400px;
+margin: auto;
+    }
 
 
 
